@@ -5,7 +5,7 @@ This repository contains the implementation for Assignment 4 of the Machine Lear
 
 Student ID: b10801011
 
-Name:張鈞傑
+Name: 張鈞傑
 
 Kaggle Score: -0.0013 
 
